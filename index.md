@@ -11,3 +11,7 @@ In the spin-off film Solo: A Star Wars Story (2018), a younger version of the ch
 * mutig
 * frech
 * eingebildet
+
+As Han Solo said:
+
+> Ich nehme nur von einem Menschen Befehle an, von mir.
