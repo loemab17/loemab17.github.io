@@ -15,3 +15,6 @@ In the spin-off film Solo: A Star Wars Story (2018), a younger version of the ch
 As Han Solo said:
 
 > Ich nehme nur von einem Menschen Befehle an, von mir.
+
+
+<img src="https://vignette.wikia.nocookie.net/jedipedia/images/4/48/Han_Solo.jpg/revision/latest?cb=20061009192205&path-prefix=de"/>
